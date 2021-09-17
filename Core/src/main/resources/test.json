@@ -1,0 +1,10 @@
+{
+  "test": "Hello world!",
+  "messages": {
+    "example-command": "You ran the example command!"
+  },
+  "section": {
+    "a": 1,
+    "b": 2
+  }
+}
